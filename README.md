@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [InstaChat](https://github.com/bhaskarshukla002/InstaChat)
 
-- 🌱 I’m currently learning **Blockchain , Web Development ,**
+- 🌱 I’m currently learning **Java , Web Development ,**
 
 - 👯 I’m looking to collaborate on [InstaChat](https://github.com/bhaskarshukla002/InstaChat)
 
