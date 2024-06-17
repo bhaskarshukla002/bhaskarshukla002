@@ -12,11 +12,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [InstaChat](https://github.com/bhaskarshukla002/InstaChat), Also on Portfolio website.
+- 🔭 I’m currently working on Project Management app with ai features and spring boot as backend, Also on Image Depth evaluation.
 
 - 🌱 I’m currently learning **Java , Web Development **
 
-- 👯 I’m looking to collaborate on [InstaChat](https://github.com/bhaskarshukla002/InstaChat)
+- 👯 I’m looking to collaborate on [Trash Trowing Action Detection System](https://github.com/bhaskarshukla002/Trash-Throwing-Action-Detection)
 
 - 💬 Ask me about **Frontend , Android , DSA **
 
